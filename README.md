@@ -1,1 +1,3 @@
-# CSE309-Final-Project
+Login Info
+Username: admin
+Password: admin123
