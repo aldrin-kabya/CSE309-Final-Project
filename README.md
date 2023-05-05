@@ -1,3 +1,3 @@
 Login Info\
-Username: admin
+Username: admin\
 Password: admin123
